@@ -1,0 +1,35 @@
+{
+  "name": "nest-extensions",
+  "version": "0.0.1",
+  "description": "A javascript library for use with Branch nest projects. Includes sugarjs and various other extensions to core classes.",
+  "keywords": [
+    "functional",
+    "utility"
+  ],
+  "homepage": "https://github.com/branchinc/nest-extensions",
+  "author": {
+    "name": "Hursh Agrawal"
+  },
+  "main": "./lib/index.js",
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/branchinc/nest-extensions.git"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {},
+  "readme": "A javascript library for use with Branch nest projects. Includes sugarjs and various other extensions to core classes.",
+  "bugs": {
+    "url": "https://github.com/branchinc/nest-extensions/issues"
+  },
+  "_id": "nest-extensions@0.0.1",
+  "_from": "nest-extensions@",
+  "dependencies": {
+    "sugar": "~1.4.0"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
